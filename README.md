@@ -1,4 +1,4 @@
-# Automatizacao de Notas Fiscais
+# Automatizando Notas Fiscais
 Automação em Python com selenium, para preenchimento automático de formulários de emissão de notas fiscais a partir de uma planilha Excel.
 
 Este projeto é uma automação desenvolvida em Python utilizando as libs (Selenium e Pandas).
